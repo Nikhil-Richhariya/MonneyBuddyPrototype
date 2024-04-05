@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string-array name="category_options">
+        <item>Not Mentioned</item>
+        <item>Academic</item>
+        <item>Entertainment</item>
+        <item>Rent</item>
+        <item>Shopping</item>
+    </string-array>
+</resources>
